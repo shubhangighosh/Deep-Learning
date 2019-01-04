@@ -1,3 +1,15 @@
 [submodule "Restricted-Boltzmann-Machines"]
 	path = Restricted-Boltzmann-Machines
 	url = https://github.com/shubhangighosh/Restricted-Boltzmann-Machines.git
+[submodule "CNN-Experiments-on-Fashion-MNIST"]
+	path = CNN-Experiments-on-Fashion-MNIST
+	url = https://github.com/shubhangighosh/CNN-Experiments-on-Fashion-MNIST.git
+[submodule "RNN-for-Table-Summarization"]
+	path = RNN-for-Table-Summarization
+	url = https://github.com/shubhangighosh/RNN-for-Table-Summarization.git
+[submodule "Vectorial-word-representations"]
+	path = Vectorial-word-representations
+	url = https://github.com/shubhangighosh/Vectorial-word-representations.git
+[submodule "Original-Backpropagation-DNN"]
+	path = Original-Backpropagation-DNN
+	url = https://github.com/shubhangighosh/Original-Backpropagation-DNN.git
