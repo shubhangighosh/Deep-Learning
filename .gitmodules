@@ -1,0 +1,3 @@
+[submodule "Restricted-Boltzmann-Machines"]
+	path = Restricted-Boltzmann-Machines
+	url = https://github.com/shubhangighosh/Restricted-Boltzmann-Machines.git
